@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on programming
 - :) cool stuff     
-
+- more cool stuff
